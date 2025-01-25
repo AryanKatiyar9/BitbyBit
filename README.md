@@ -4,6 +4,8 @@ Welcome to our **Collaboration Platform**! This guide will help you navigate thr
 
 ## Scheduling of the Repository
 - ## Folders:
+  -*Portfolio*
+  -Resume & Cover_Letter
   -Meeting  #Notes
   - FULL_STACK_DEVELOPMENT
     - Maintain Folders & Sub_Folders
